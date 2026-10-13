@@ -43,8 +43,8 @@
     "proper-lockfile": "^4.1.2",
     "properties-reader": "^2.3.0",
     "ssh-remote-port-forward": "^1.0.4",
-    "tar-fs": "^3.0.5",
-    "tmp": "^0.2.1"
+    "tar-fs": "^3.1.1",
+    "tmp": "^0.2.4"
   },
   "devDependencies": {
     "@types/archiver": "^5.3.4",
