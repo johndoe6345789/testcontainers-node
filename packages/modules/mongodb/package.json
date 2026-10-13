@@ -29,7 +29,7 @@
     "build": "tsc --project tsconfig.build.json"
   },
   "devDependencies": {
-    "mongoose": "^7.8.4"
+    "mongoose": "^7.8.10"
   },
   "dependencies": {
     "testcontainers": "^10.9.0"
